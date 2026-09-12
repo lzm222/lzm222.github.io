@@ -2,3 +2,7 @@ baseURL = 'https://lzm222.github.io/'
 locale = 'zh-cn'
 title = "Lzm222's Blog"
 theme = "ananke"
+
+[caches]
+  [caches.images]
+    dir = ':cacheDir/images'
