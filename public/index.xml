@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+	<channel>
+		<title>Lzm222&#39;s Blog</title>
+		<link>https://lzm222.github.io/</link>
+		<description>Recent content on Lzm222&#39;s Blog</description>
+		<generator>Hugo</generator>
+		<language>zh-cn</language>
+		
+		
+		
+		
+			<atom:link href="https://lzm222.github.io/index.xml" rel="self" type="application/rss+xml" />
+	</channel>
+</rss>
